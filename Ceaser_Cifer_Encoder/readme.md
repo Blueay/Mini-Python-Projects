@@ -61,6 +61,62 @@ flowchart TD
     F -- No --> G([End])
 ```
 
+## Flowchart
+
+```mermaid
+flowchart TD
+    A([Start]) --> B[Display Logo]
+    B --> C{Encode or Decode?}
+    C --> D[Enter Message]
+    D --> E[Enter Shift Value]
+    E --> F{Character is a letter?}
+    F -- Yes --> G[Shift Alphabet Index]
+    F -- No --> H[Keep Character]
+    G --> I[Display Result]
+    H --> I
+    I --> J{Run Again?}
+    J -- Yes --> C
+    J -- No --> K([End])
+```
+
+
+               Start
+                 │
+                 ▼
+          Display Logo
+                 │
+                 ▼
+      Encode or Decode?
+                 │
+                 ▼
+         Enter Message
+                 │
+                 ▼
+       Enter Shift Value
+                 │
+                 ▼
+        Character a letter?
+            ┌────┴────┐
+          Yes         No
+           │           │
+           ▼           ▼
+ Shift Alphabet   Keep Character
+      Index            │
+           └────┬──────┘
+                ▼
+        Display Result
+                │
+                ▼
+          Run Again?
+            ┌───┴───┐
+          Yes      No
+           │        │
+           ▼        ▼
+        Repeat     End
+
+
+        
+
 ## Features
 
 - Encode text using the Caesar Cipher
