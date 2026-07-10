@@ -32,7 +32,20 @@ flowchart TD
     M -- Yes --> C
     M -- No --> N([End])
 ```
-    
+
+
+## Flowchart
+
+```mermaid
+flowchart LR
+    A([Start]) --> B[Choose Mode]
+    B --> C[Enter Text and Shift]
+    C --> D[Process Cipher]
+    D --> E[Show Result]
+    E --> F{Again?}
+    F -- Yes --> B
+    F -- No --> G([End])
+```
 
 ## Features
 
