@@ -12,16 +12,25 @@ The program encrypts or decrypts messages by shifting each letter of the alphabe
 flowchart TD
     A([Start]) --> B[Display Logo]
     B --> C{Encode or Decode?}
+
     C --> D[Enter Message]
     D --> E[Enter Shift Value]
-    E --> F{Character is a letter?}
-    F -- Yes --> G[Shift Alphabet Index]
-    F -- No --> H[Keep Character]
-    G --> I[Display Result]
-    H --> I
-    I --> J{Run Again?}
-    J -- Yes --> C
-    J -- No --> K([End])
+    E --> F[Process Each Character]
+
+    F --> G{Letter?}
+    G -- Yes --> H[Shift Letter]
+    G -- No --> I[Keep Character]
+
+    H --> J[Append to Output]
+    I --> J
+
+    J --> K{More Characters?}
+    K -- Yes --> F
+    K -- No --> L[Display Result]
+
+    L --> M{Run Again?}
+    M -- Yes --> C
+    M -- No --> N([End])
 ```
     
 
