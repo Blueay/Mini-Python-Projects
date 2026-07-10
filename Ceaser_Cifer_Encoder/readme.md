@@ -14,9 +14,9 @@ The program encrypts or decrypts messages by shifting each letter of the alphabe
                 │   Start   │
                 └─────┬─────┘
                       │
-                ┌─────▼─────┐
+                ┌─────▼────-─┐
                 │Display Logo│
-                └─────┬─────┘
+                └─────┬────-─┘
                       │
              ┌────────▼────────┐
              │Encode or Decode?│
@@ -30,13 +30,13 @@ The program encrypts or decrypts messages by shifting each letter of the alphabe
                 │Enter Shift│
                 └─────┬─────┘
                       │
-            ┌─────────▼─────────┐
+            ┌─────────▼─────────-┐
             │ Character a Letter?│
-            └──────┬─────┬──────┘
+            └──────┬─────┬──────-┘
                    │     │
                  Yes     No
                    │     │
-        ┌──────────▼┐  ┌─▼────────────┐
+        ┌──────────▼-┐  ┌─▼────────────┐
         │Shift Letter│  │Keep Character│
         └──────┬─────┘  └─────┬────────┘
                └──────┬────────┘
@@ -54,115 +54,6 @@ The program encrypts or decrypts messages by shifting each letter of the alphabe
                    ▼   ▼
                Repeat End
 ```
-
-
-## Flowchart
-
-```mermaid
-flowchart TD
-    A([Start]) --> B[Display Logo]
-    B --> C{Encode or Decode?}
-
-    C --> D[Enter Message]
-    D --> E[Enter Shift Value]
-    E --> F[Process Each Character]
-
-    F --> G{Letter?}
-    G -- Yes --> H[Shift Letter]
-    G -- No --> I[Keep Character]
-
-    H --> J[Append to Output]
-    I --> J
-
-    J --> K{More Characters?}
-    K -- Yes --> F
-    K -- No --> L[Display Result]
-
-    L --> M{Run Again?}
-    M -- Yes --> C
-    M -- No --> N([End])
-```
-
-
-## Flowchart
-
-```mermaid
-flowchart LR
-    A([Start]) --> B[Choose Mode]
-    B --> C[Enter Text and Shift]
-    C --> D[Process Cipher]
-    D --> E[Show Result]
-    E --> F{Again?}
-    F -- Yes --> B
-    F -- No --> G([End])
-```
-
-
-## Flowchart
-
-```mermaid
-flowchart TD
-    A([Start]) --> B[Choose Encode or Decode]
-    B --> C[Enter Message and Shift]
-    C --> D[Run Caesar Cipher]
-    D --> E[Display Result]
-    E --> F{Go Again?}
-    F -- Yes --> B
-    F -- No --> G([End])
-```
-
-## Flowchart
-
-```mermaid
-flowchart TD
-    A([Start]) --> B[Display Logo]
-    B --> C{Encode or Decode?}
-    C --> D[Enter Message]
-    D --> E[Enter Shift Value]
-    E --> F{Character is a letter?}
-    F -- Yes --> G[Shift Alphabet Index]
-    F -- No --> H[Keep Character]
-    G --> I[Display Result]
-    H --> I
-    I --> J{Run Again?}
-    J -- Yes --> C
-    J -- No --> K([End])
-```
-
-
-               Start
-                 │
-                 ▼
-          Display Logo
-                 │
-                 ▼
-      Encode or Decode?
-                 │
-                 ▼
-         Enter Message
-                 │
-                 ▼
-       Enter Shift Value
-                 │
-                 ▼
-        Character a letter?
-            ┌────┴────┐
-          Yes         No
-           │           │
-           ▼           ▼
- Shift Alphabet   Keep Character
-      Index            │
-           └────┬──────┘
-                ▼
-        Display Result
-                │
-                ▼
-          Run Again?
-            ┌───┴───┐
-          Yes      No
-           │        │
-           ▼        ▼
-        Repeat     End
 
 
         
