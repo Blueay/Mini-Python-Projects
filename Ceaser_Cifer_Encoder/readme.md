@@ -47,6 +47,20 @@ flowchart LR
     F -- No --> G([End])
 ```
 
+
+## Flowchart
+
+```mermaid
+flowchart TD
+    A([Start]) --> B[Choose Encode or Decode]
+    B --> C[Enter Message and Shift]
+    C --> D[Run Caesar Cipher]
+    D --> E[Display Result]
+    E --> F{Go Again?}
+    F -- Yes --> B
+    F -- No --> G([End])
+```
+
 ## Features
 
 - Encode text using the Caesar Cipher
