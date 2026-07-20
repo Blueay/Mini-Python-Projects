@@ -9,7 +9,7 @@ The player places a bet on which turtle will win the race before it begins. Six 
 ## Screenshot
 
 <p align="center">
-  <img src="turtle_race_demo.png" width="350" alt="Turtle Race">
+  <img src="turtle_race_demo.png" width="400" alt="Turtle Race">
 </p>
 
 ---
@@ -57,13 +57,6 @@ The player places a bet on which turtle will win the race before it begins. Six 
 - Interactive message box displaying the result
 - Beginner-friendly Turtle Graphics project
 
----
-
-## Screenshot
-
-<p align="center">
-  <img src="turtle_race_demo.png" width="700" alt="Turtle Race">
-</p>
 
 ---
 
