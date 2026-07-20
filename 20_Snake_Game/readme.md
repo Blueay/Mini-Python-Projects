@@ -14,7 +14,7 @@ Control the snake, eat food to grow longer, increase your score, and avoid colli
 ## Screenshot
 
 <p align="center">
-  <img src="images/gameplay.png" width="700" alt="Snake Game">
+  <img src="gameover.png" width="500" alt="Snake Game">
 </p>
 
 ---
