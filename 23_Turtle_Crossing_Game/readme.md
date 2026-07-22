@@ -16,13 +16,13 @@ Your goal is to safely guide the turtle across a busy road while avoiding incomi
 ### Gameplay
 
 <p align="center">
-  <img src="images/turtle_crossing_level1.png" width="700" alt="Gameplay Screenshot">
+  <img src="images/turtle_crossing.png" width="500" alt="Gameplay Screenshot">
 </p>
 
 ### Game Over
 
 <p align="center">
-  <img src="images/turtle_crossing_game_over.png" width="700" alt="Game Over Screenshot">
+  <img src="images/turtle_crossing_2.png" width="500" alt="Game Over Screenshot">
 </p>
 
 ---
