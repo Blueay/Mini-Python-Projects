@@ -232,32 +232,35 @@ python main.py
 This repository is part of my broader software engineering and data analytics portfolio.
 
 
-Portfolio
+## 🗂 Portfolio Roadmap
+
+```text
+📁 Portfolio
+
+├── 🐍 Python Mini Projects
 │
-├── 🐍 Python-Mini-Projects
-│
-├── 🗄 SQL-Portfolio
+├── 🗄 SQL Portfolio
 │   ├── SQL Queries
 │   ├── Database Design
 │   └── Data Cleaning
 │
-├── 🛢 Database-Design
+├── 🛢 Database Design
 │   ├── ER Diagrams
 │   ├── Normalization
 │   └── SQL Schema Design
 │
-├── 📊 Data-Analysis
-│   ├── Python (Pandas)
+├── 📊 Data Analysis
+│   ├── Pandas
 │   ├── NumPy
 │   ├── Matplotlib
 │   └── Exploratory Data Analysis
 │
-├── 🤖 Machine-Learning
+├── 🤖 Machine Learning
 │   ├── Scikit-Learn
 │   ├── TensorFlow
 │   └── AI Projects
 │
-├── 💰 Finance-Analytics
+├── 💰 Finance Analytics
 │   ├── Financial Models
 │   ├── Forecasting
 │   ├── KPI Dashboards
@@ -268,7 +271,8 @@ Portfolio
 │   ├── DAX
 │   └── Data Visualization
 │
-└── README.md
+└── 📄 README.md
+```
 
 ---
 
