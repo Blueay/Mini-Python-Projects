@@ -231,35 +231,44 @@ python main.py
 
 This repository is part of my broader software engineering and data analytics portfolio.
 
-```text
-Portfolio
-│
-├── 🐍 Python-Mini-Projects
-│
-├── 🗄 SQL-Portfolio
-│
-├── 🛢 Database-Design
-│
-├── 📊 Data-Analysis
-│
-├── 🤖 Machine-Learning
-│
-├── 💰 Finance-Analytics
-│
-├── 📈 Power BI
-│
-└── README.md
 
 Portfolio
 │
 ├── 🐍 Python-Mini-Projects
 │
 ├── 🗄 SQL-Portfolio
+│   ├── SQL Queries
+│   ├── Database Design
+│   └── Data Cleaning
 │
-├── SQL Queries
+├── 🛢 Database-Design
+│   ├── ER Diagrams
+│   ├── Normalization
+│   └── SQL Schema Design
 │
-├── Database Design │ └── Data Cleaning │ ├── 🛢 Database-Design │ ├── ER Diagrams │ ├── Normalization │ └── SQL Schema Design │ ├── 📊 Data-Analysis │ ├── Python (Pandas) │ ├── NumPy │ ├── Matplotlib │ └── Exploratory Data Analysis │ ├── 🤖 Machine-Learning │ ├── Scikit-Learn │ ├── TensorFlow │ └── AI Projects │ ├── 💰 Finance-Analytics │ ├── Financial Models │ ├── Forecasting │ ├── KPI Dashboards │ └── Business Cases │ ├── 📈 Power BI │ ├── Dashboards │ ├── DAX │ └── Data Visualization │ └── README.md
-```
+├── 📊 Data-Analysis
+│   ├── Python (Pandas)
+│   ├── NumPy
+│   ├── Matplotlib
+│   └── Exploratory Data Analysis
+│
+├── 🤖 Machine-Learning
+│   ├── Scikit-Learn
+│   ├── TensorFlow
+│   └── AI Projects
+│
+├── 💰 Finance-Analytics
+│   ├── Financial Models
+│   ├── Forecasting
+│   ├── KPI Dashboards
+│   └── Business Cases
+│
+├── 📈 Power BI
+│   ├── Dashboards
+│   ├── DAX
+│   └── Data Visualization
+│
+└── README.md
 
 ---
 
