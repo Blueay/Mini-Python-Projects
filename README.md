@@ -1,17 +1,16 @@
-This Project contains a list of mini python games and projects which I have created.
-
 # 🐍 Python Mini Projects
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-![Projects](https://img.shields.io/badge/Projects-7-orange)
+![Projects](https://img.shields.io/badge/Projects-15-orange)
+![OOP](https://img.shields.io/badge/OOP-5_Projects-success)
 ![Status](https://img.shields.io/badge/Status-Learning-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 Welcome to my Python portfolio!
 
-This repository contains a collection of beginner-friendly Python projects that I developed while learning Python programming. Each project focuses on different programming concepts and demonstrates practical problem-solving using Python.
+This repository contains a collection of beginner-friendly Python projects and games that I developed while learning Python programming. Each project focuses on different programming concepts and demonstrates practical problem-solving using Python.
 
-The goal of this repository is to continuously improve my programming skills and build a strong foundation in software development.
+The goal of this repository is to continuously improve my programming skills while building a strong foundation in software engineering, object-oriented programming, and game development.
 
 ---
 
@@ -26,12 +25,29 @@ The goal of this repository is to continuously improve my programming skills and
 | 💰 Blind Auction | Determine the highest bidder in a secret auction. | Dictionaries, loops |
 | ♠️ Blackjack | Play Blackjack against the computer. | Functions, lists, game logic |
 | 📈 Higher Lower | Guess which celebrity has more Instagram followers. | Nested dictionaries, lists, random module |
+| ☕ Coffee Machine | Simulate a coffee vending machine with resource and payment management. | Functions, dictionaries, program state |
+| ☕ Coffee Machine (OOP) | Object-oriented version of the Coffee Machine project. | OOP, classes, modular programming |
+| 🧠 Quiz Game | True/False quiz using Object-Oriented Programming. | Classes, objects, data modeling |
+
+---
+
+# 🎮 Turtle Graphics Games
+
+| Game | Description | Concepts |
+|------|-------------|----------|
+| 🎨 Etch-a-Sketch | Draw freely using keyboard controls. | Turtle Graphics, keyboard events |
+| 🐢 Turtle Race | Place a bet and watch six turtles race. | Animation, random module, Turtle Graphics |
+| 🐍 Snake | Classic Snake game with growing snake and score tracking. | OOP, collision detection, game loop |
+| 🏓 Pong | Two-player Pong game. | OOP, animation, collision detection |
+| 🚗 Turtle Crossing | Cross the road while avoiding moving cars. | OOP, level progression, dynamic object creation |
 
 ---
 
 # 🛠 Technologies
 
 - Python 3
+- Object-Oriented Programming (OOP)
+- Turtle Graphics
 - Command Line Interface (CLI)
 
 ---
@@ -48,6 +64,16 @@ Python-Mini-Projects/
 ├── Blind-Auction/
 ├── Blackjack/
 ├── Higher-Lower/
+├── Coffee-Machine/
+├── Coffee-Machine-OOP/
+├── Quiz-Game/
+│
+├── Turtle-Race/
+├── Etch-a-Sketch/
+├── Snake-Game/
+├── Pong-Game/
+├── Turtle-Crossing-Game/
+│
 └── README.md
 ```
 
@@ -57,21 +83,48 @@ Python-Mini-Projects/
 
 Throughout these projects I practiced:
 
+### Python Fundamentals
+
 - Variables and data types
 - Functions
+- User input
 - Loops (`for`, `while`)
 - Conditional statements
 - Lists
 - Dictionaries
 - Nested data structures
 - String manipulation
-- User input
-- Random module
+
+### Object-Oriented Programming
+
+- Classes
+- Objects
+- Inheritance
+- Constructors (`__init__`)
+- Methods
+- Attributes
+- Object composition
+- Encapsulation
+- Modular programming
+
+### Game Development
+
+- Turtle Graphics
+- Keyboard event handling
+- Collision detection
+- Animation
+- Game loops
+- Level progression
+- Scoreboards
+- Random object generation
+
+### General Programming
+
+- Program state management
 - Recursion
-- Game logic
-- Program flow control
-- Code organization
 - Problem solving
+- Code organization
+- Separation of concerns
 
 ---
 
@@ -86,13 +139,13 @@ git clone https://github.com/yourusername/python-mini-projects.git
 Navigate into any project folder:
 
 ```bash
-cd Guess-the-Number
+cd Snake-Game
 ```
 
 Run the project:
 
 ```bash
-python Guess_the_Number_Project.py
+python main.py
 ```
 
 ---
@@ -109,6 +162,9 @@ python Guess_the_Number_Project.py
 
 - Python `sum()` Function  
   https://docs.python.org/3/library/functions.html#sum
+
+- Python Turtle Graphics  
+  https://docs.python.org/3/library/turtle.html
 
 ---
 
@@ -137,9 +193,14 @@ python Guess_the_Number_Project.py
 - Higher Lower Game  
   http://www.higherlowergame.com
 
+- Open Trivia Database (Quiz Game)  
+  https://opentdb.com
+
 ---
 
 # 📈 Progress
+
+## Beginner Projects
 
 - ✅ Guess the Number
 - ✅ Caesar Cipher
@@ -149,7 +210,20 @@ python Guess_the_Number_Project.py
 - ✅ Blackjack
 - ✅ Higher Lower
 
-🚀 More projects coming soon...
+## Object-Oriented Projects
+
+- ✅ Coffee Machine (OOP)
+- ✅ Quiz Game
+
+## Turtle Graphics Games
+
+- ✅ Etch-a-Sketch
+- ✅ Turtle Race
+- ✅ Snake
+- ✅ Pong
+- ✅ Turtle Crossing
+
+🚀 More Python projects coming soon...
 
 ---
 
@@ -163,36 +237,16 @@ Portfolio
 ├── 🐍 Python-Mini-Projects
 │
 ├── 🗄 SQL-Portfolio
-│   ├── SQL Queries
-│   ├── Database Design
-│   └── Data Cleaning
 │
 ├── 🛢 Database-Design
-│   ├── ER Diagrams
-│   ├── Normalization
-│   └── SQL Schema Design
 │
 ├── 📊 Data-Analysis
-│   ├── Python (Pandas)
-│   ├── NumPy
-│   ├── Matplotlib
-│   └── Exploratory Data Analysis
 │
 ├── 🤖 Machine-Learning
-│   ├── Scikit-Learn
-│   ├── TensorFlow
-│   └── AI Projects
 │
 ├── 💰 Finance-Analytics
-│   ├── Financial Models
-│   ├── Forecasting
-│   ├── KPI Dashboards
-│   └── Business Cases
 │
 ├── 📈 Power BI
-│   ├── Dashboards
-│   ├── DAX
-│   └── Data Visualization
 │
 └── README.md
 ```
@@ -201,9 +255,9 @@ Portfolio
 
 # 👩‍💻 About Me
 
-I'm a Finance & Data professional mixing Data Analytics, AI, and Software Engineering.
+I'm a Finance & Data professional transitioning into **Data Analytics, Artificial Intelligence, and Software Engineering**.
 
-Alongside my background I'm expanding my technical skills through projects in Python, SQL, databases, automation, and artificial intelligence.
+Alongside my background in Finance and Controlling, I'm expanding my technical expertise through hands-on projects in Python, SQL, databases, automation, data analysis, and AI.
 
 This repository documents my learning journey and showcases my progress as a developer.
 
