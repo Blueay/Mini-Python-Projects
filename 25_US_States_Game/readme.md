@@ -14,7 +14,7 @@ The goal of the game is to correctly name all **50 U.S. states**. Every correct 
 ## Screenshot
 
 <p align="center">
-  <img src="images/us_states_game.png" width="750" alt="U.S. States Game">
+  <img src="blank_states_img.gif" width="750" alt="U.S. States Game">
 </p>
 
 ---
