@@ -55,26 +55,31 @@ The goal of this repository is to continuously improve my programming skills whi
 # 📂 Repository Structure
 
 ```text
-Python-Mini-Projects/
-│
-├── Guess-the-Number/
-├── Caesar-Cipher/
-├── Hangman/
-├── Calculator/
-├── Blind-Auction/
-├── Blackjack/
-├── Higher-Lower/
-├── Coffee-Machine/
-├── Coffee-Machine-OOP/
-├── Quiz-Game/
-│
-├── Turtle-Race/
-├── Etch-a-Sketch/
-├── Snake-Game/
-├── Pong-Game/
-├── Turtle-Crossing-Game/
-│
-└── README.md
+
+📚 Python Fundamentals
+├── Guess the Number
+├── Caesar Cipher
+├── Hangman
+├── Calculator
+├── Blind Auction
+├── Blackjack
+└── Higher Lower
+
+📊 Data Processing
+├── 🇺🇸 U.S. States Game
+└── 🎙️ NATO Phonetic Alphabet
+
+☕ Object-Oriented Programming
+├── Coffee Machine (OOP)
+└── Quiz Game
+
+🎮 Turtle Graphics Games
+├── Etch-a-Sketch
+├── Turtle Race
+├── Snake
+├── Pong
+└── Turtle Crossing
+
 ```
 
 ---
