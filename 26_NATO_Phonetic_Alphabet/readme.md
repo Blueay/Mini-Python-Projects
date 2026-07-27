@@ -14,7 +14,7 @@ The program loads the NATO alphabet from a CSV file using **Pandas**, creates a 
 ## Screenshot
 
 <p align="center">
-  <img src="images/nato_phonetic.png" width="750" alt="NATO Phonetic Alphabet">
+  <img src="nato_phonetic.png" width="650" alt="NATO Phonetic Alphabet">
 </p>
 
 ---
