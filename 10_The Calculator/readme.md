@@ -4,6 +4,17 @@ This is a simple **Calculator** application written in Python.
 
 The program performs basic arithmetic operations and allows users to continue calculating with the previous result or start a new calculation at any time.
 
+
+## Screenshot
+
+<p align="center">
+  <img src="calculator.png" width="550" alt="Python calculator project"><br>
+  <em>Chained calculations using addition, subtraction, multiplication, and division.</em>
+</p>
+
+
+
+
 ## Flowchart
 
 ```text
