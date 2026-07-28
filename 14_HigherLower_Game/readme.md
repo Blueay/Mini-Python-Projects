@@ -9,6 +9,14 @@ Inspired by the online game:
 
 http://www.higherlowergame.com
 
+## Screenshot
+
+<p align="center">
+  <img src="higher_lower.png" width="650" alt="Python Higher Lower game"><br>
+  <em>Comparing Neymar and FC Barcelona by follower count.</em>
+</p>
+
+
 ## Flowchart
 
 ```text
