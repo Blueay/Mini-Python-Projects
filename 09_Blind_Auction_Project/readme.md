@@ -5,6 +5,15 @@ This is a simple **Blind Auction** program written in Python.
 
 The application collects bids from multiple participants, stores them in a dictionary, and determines the highest bid once all users have entered their offers. If multiple participants submit the same highest bid, the program announces a tie.
 
+## Screenshot
+
+<p align="center">
+  <img src="secret_auction.png" width="550" alt="Blind Auction Python project"><br>
+  <em>Users enter their names and bids in the command-line auction.</em>
+</p>
+
+
+
 ## Flowchart
 
 ```text
