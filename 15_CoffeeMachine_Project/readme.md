@@ -8,6 +8,28 @@ The project demonstrates how a real-world vending machine can be modeled using P
 
 ---
 
+## Screenshots
+
+### ☕ Successful Coffee Purchase
+
+<p align="center">
+  <img src="coffee_1.png" width="700" alt="Coffee Machine successful order">
+</p>
+
+The user purchases multiple drinks, inserts coins, receives change, and checks the remaining resources using the `report` command.
+
+---
+
+### 🚫 Out of Resources
+
+<p align="center">
+  <img src="coffee_2.png" width="700" alt="Coffee Machine out of resources">
+</p>
+
+The machine detects insufficient resources, rejects unavailable orders, and shuts down once it can no longer prepare the requested drink.
+
+
+
 ## Flowchart
 
 ```text
