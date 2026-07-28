@@ -5,7 +5,11 @@ This is a simple **Caesar Cipher** encoder and decoder written in Python.
 
 The program encrypts or decrypts messages by shifting each letter of the alphabet by a user-defined number of positions. It also preserves spaces, numbers, and punctuation.
 
+## Screenshot
 
+<p align="center">
+  <img src="caesar_cipher_1.png" width="550" alt="Caesar Cipher encoder and decoder">
+</p>
 
 ## Flowchart
 
