@@ -10,6 +10,15 @@ The program randomly selects a number between **1 and 100**, and the player trie
 
 After each guess, the game provides feedback indicating whether the guess was **too high** or **too low** until the player wins or runs out of attempts.
 
+## Screenshot
+
+<p align="center">
+  <img src="guess_num.png" width="750" alt="Python Guess the Number game"><br>
+  <em>Hard mode gameplay showing high/low feedback and a successful final guess.</em>
+</p>
+
+
+
 ## Flowchart
 
 ```text
