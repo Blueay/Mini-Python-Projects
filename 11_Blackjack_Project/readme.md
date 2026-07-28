@@ -4,6 +4,15 @@ This is a simple **Blackjack** game written in Python.
 
 The game follows the basic rules of Blackjack, where the player competes against the computer. Both players are dealt cards from a virtual deck, and the objective is to get as close to **21** as possible without going over. The computer follows the standard Blackjack rule of drawing cards until it reaches a score of at least **17**.
 
+
+## Screenshot
+
+<p align="center">
+  <img src="blackjack.png" width="750" alt="Python Blackjack game"><br>
+  <em>A completed Blackjack round showing both hands, final scores, and the result.</em>
+</p>
+
+
 ## Flowchart
 
 ```text
