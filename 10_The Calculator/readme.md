@@ -8,7 +8,7 @@ The program performs basic arithmetic operations and allows users to continue ca
 ## Screenshot
 
 <p align="center">
-  <img src="calculator.png" width="550" alt="Python calculator project"><br>
+  <img src="calculator.png" width="750" alt="Python calculator project"><br>
   <em>Chained calculations using addition, subtraction, multiplication, and division.</em>
 </p>
 
