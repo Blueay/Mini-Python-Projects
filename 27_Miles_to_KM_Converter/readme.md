@@ -13,7 +13,7 @@ The user enters a number of miles, clicks the **Calculate** button, and the appl
 ## Screenshot
 
 <p align="center">
-  <img src="27_miles_to_km.png" width="500" alt="Miles to Kilometres Converter">
+  <img src="27_miles_to_km.png" width="400" alt="Miles to Kilometres Converter">
 </p>
 
 ---
