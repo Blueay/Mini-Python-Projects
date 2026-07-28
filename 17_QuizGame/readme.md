@@ -13,6 +13,12 @@ The quiz questions are based on data provided by the **Open Trivia Database (Ope
 
 ---
 
+## Screenshot
+
+<p align="center">
+  <img src="project_name.png" width="700" alt="Project Screenshot">
+</p>
+
 ## Flowchart
 
 ```text
