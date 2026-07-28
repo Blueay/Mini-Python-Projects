@@ -16,8 +16,10 @@ The quiz questions are based on data provided by the **Open Trivia Database (Ope
 ## Screenshot
 
 <p align="center">
-  <img src="project_name.png" width="700" alt="Project Screenshot">
+  <img src="quiz.png" width="700" alt="Python Quiz Game">
 </p>
+
+The player answers a series of True/False questions, receives immediate feedback after each question, and can track their current score throughout the game.
 
 ## Flowchart
 
