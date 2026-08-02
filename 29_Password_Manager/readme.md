@@ -13,7 +13,7 @@ The application allows users to generate strong random passwords, store website 
 # 📸 Application
 
 <p align="center">
-    <img src="pw_manager.png" width="220" alt="MyPass Logo">
+    <img src="pw_generator.png" width="550" alt="MyPass Logo">
 </p>
 
 ---
