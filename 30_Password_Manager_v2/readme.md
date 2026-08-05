@@ -16,7 +16,7 @@ The application allows users to generate secure passwords, store login credentia
 ## 🏠 Main Application
 
 <p align="center">
-    <img src="pw_generator.png" width="750" alt="Password Manager">
+    <img src="pw_generator.png" width="550" alt="Password Manager">
 </p>
 
 ---
@@ -24,7 +24,7 @@ The application allows users to generate secure passwords, store login credentia
 ## 🔍 Search Existing Credentials
 
 <p align="center">
-    <img src="website_found.png" width="750" alt="Password Found">
+    <img src="website_found.png" width="550" alt="Password Found">
 </p>
 
 ---
@@ -32,7 +32,7 @@ The application allows users to generate secure passwords, store login credentia
 ## ⚠ Website Not Found
 
 <p align="center">
-    <img src="website_notfound.png" width="750" alt="Website Not Found">
+    <img src="website_notfound.png" width="550" alt="Website Not Found">
 </p>
 
 ---
@@ -40,7 +40,7 @@ The application allows users to generate secure passwords, store login credentia
 ## ⚠ Missing Website Input
 
 <p align="center">
-    <img src="enter_websitename.png" width="750" alt="Enter Website">
+    <img src="enter_websitename.png" width="550" alt="Enter Website">
 </p>
 
 ---
