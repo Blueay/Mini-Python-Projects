@@ -163,9 +163,9 @@ https://tkdocs.com/
 
 ---
 
-# 🎯 What I Learned
+# 🎯 Key takeaways
 
-This project was my introduction to combining a graphical user interface with persistent data storage.
+This project is combining a graphical user interface with persistent data storage.
 
 Key takeaways included:
 
