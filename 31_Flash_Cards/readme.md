@@ -17,7 +17,7 @@ The application automatically flips each flash card after a few seconds, tracks 
 ## 🇫🇷 French Flash Card
 
 <p align="center">
-    <img src="images/yeux.png" width="850" alt="French Flash Card">
+    <img src="images/yeux.png" width="550" alt="French Flash Card">
 </p>
 
 ---
@@ -25,7 +25,7 @@ The application automatically flips each flash card after a few seconds, tracks 
 ## 🇬🇧 English Translation
 
 <p align="center">
-    <img src="eyes.png" width="850" alt="English Translation">
+    <img src="images/eyes.png" width="550" alt="English Translation">
 </p>
 
 ---
