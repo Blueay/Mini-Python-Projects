@@ -8,7 +8,7 @@
 
 A desktop flash card application built with **Python**, **Tkinter**, and **Pandas** to help learn the most common French vocabulary.
 
-The application automatically flips each flash card after a few seconds, tracks learning progress, and removes words you've already mastered.
+The application automatically flips each flash card after a few seconds, tracks learning progress, and removes words you've already mastered. 
 
 ---
 
